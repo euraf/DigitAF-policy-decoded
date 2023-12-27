@@ -1,4 +1,4 @@
 # Policy-regions
 
-This documents outlines relavant documents for agroforestry policy different regions. 
+This documents outlines relevant documents for agroforestry policy different regions. 
 
