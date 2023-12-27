@@ -6,7 +6,7 @@ This project seeks to decode national policies, regulation and subsidies for agr
 The source documents that are the foundation for this code is the manifestaion of agroforestry policy in practice, it is what guides actual real-world decisions amongst farmers and land-owners of whether to adopt agroforestry, or not. 
 
 <h1>Background</h1>
-Many policies like the European CAP have specific regulation and subsidies for agroforestry. Often actual policies are implemented through national- and/or regional-specific documents. These documents describe in great detail what the individual institutions regard as agroforestry and which subsidies specific farming systems and practices are eligible for. This projects aims to translate the documents into programmable code and data so that the policies can be used in digital tools and models. This is done by producing code in machine-readable formats based on the documents. 
+Many policies like the European CAP have specific regulation and subsidies for agroforestry. Often actual policies are implemented through national- and/or regional legislation with adjoining documents. These documents describe in great detail what the individual institutions regard as agroforestry and which subsidies specific farming systems and practices are eligible for. This project aims to translate the documents into programmable code and data so that the policies can be used in digital tools and models. This is done by producing code in machine-readable formats based on the documents. 
 
 <h1>Decoding policies</h1>
 
