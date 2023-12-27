@@ -1,6 +1,6 @@
 Description,Type,Paymenttype,Amount,Increment,Treemin,Treemax
 Skovlandbrug med permanent græs,land-use,basic,1900,annual,100,5000
-Frugt-og bærtillæg,organic,4000,annual,100,5000
+Frugt-og bærtillæg,organic,extra,4000,annual,100,5000
 Lavskov,land-use,basic,1900,annual,100,10000
 Permanent græs,land-use,basic,1900,annual,0,100
 Afgræsning af skov,land-use,natura,2000,annual,5,10000
