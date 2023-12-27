@@ -11,4 +11,4 @@ Many policies like the European CAP have specific regulation and subsidies for a
 Each country and regions have several documents that are relevant to decode. <a href="https://github.com/euraf/DigitAF-policy-decoded/blob/main/REGIONS.md">Policy regions</a> contains a non-exhaustive list of documents with agroforestry related policies. 
 
 <h2>Decoding documents</h2>
-Everyone can contribute to decoding documents to produce machine-readable code. <a href="https://github.com/euraf/DigitAF-policy-decoded/blob/main/REGIONS.md">Decoding documents</a> describe how documents are decoded into machine readable code and how to contribute. 
+Everyone can contribute to decoding documents to produce machine-readable code. <a href="https://github.com/euraf/DigitAF-policy-decoded/blob/main/DECODING.md">Decoding documents</a> describe how documents are decoded into machine readable code and how to contribute. 
