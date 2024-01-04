@@ -1,7 +1,7 @@
 Description,Type,Paymenttype,Amount,Increment,Treecountmin,Treecountmax,Treecovermin,Treecovermax,Source
 Maintain very low density in-field agroforestry on less sensitive land, land-use, premium, 248, annual, 30, 50, NA, NA, https://www.gov.uk/
 Maintain very low density in-field agroforestry on more sensitive land, land-use, premium, 248, annual, 30, 50, NA, NA, https://www.gov.uk/
-Maintain low density in-field agroforestry on less sensitive land, land-use, premium, 385, annual, 51, 70, NA, NA, https://www.gov.uk/
+Maintain low density in-field agroforestry on less sensitive land, land-use, premium, 385, annual, 51, 130, NA, NA, https://www.gov.uk/
 Maintain low density in-field agroforestry on more sensitive land, land-use, premium, 385, annual, 51, 130, NA, NA, https://www.gov.uk/
 Maintain medium density in-field agroforestry, land-use, premium, 595, annual, 131, 250, NA, NA, https://www.gov.uk/
 Maintain high density in-field agroforestry, land-use, premium, 849, annual, 251, 400, NA, NA, https://www.gov.uk/
